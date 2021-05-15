@@ -1,5 +1,5 @@
 # Credits
-This is for crediting to the people who created/owned/participated to files and/or procedures on which I based my EFI's, builds and knowledge.
+This is for crediting to the people who created/owned/participated to anything related to my EFI's, builds and knowledge. I don't take any credit whatsoever, I only share my EFI-folders and opinions with you.
 
 If applicable to a build/EFI, ALL credits regarding the files go to the people who own/maintain/participate the following files / initiatives:
 

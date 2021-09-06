@@ -4,7 +4,7 @@ This is for crediting to the people who created/owned/participated to anything r
 If applicable to a build/EFI, ALL credits regarding the files go to the people who own/maintain/participate the following files / initiatives:
 
 # Apple
-For their macOS available via the AppStore and selling me all Apple Hardware :-) 
+For their macOS availability via the AppStore and for spending my money on Apple Hardware :-) 
 
 # Dortania OpenCore Guide:
 For the extensive knowledge and documentation.

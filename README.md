@@ -37,9 +37,20 @@ https://openintelwireless.github.io and https://github.com/OpenIntelWireless
 - FakePCIID https://github.com/RehabMan 
 - VooDooPS2Controller: https://github.com/RehabMan 
 
-# Support and Guides on TonyMacX86.com: 
-Dell OptiMac (Optiplex) build: https://www.tonymacx86.com/threads/the-dell-optimac-big-sur-opencore-thread.302383/ 
-Gigabyty Designare Z390 build: https://www.tonymacx86.com/threads/success-gigabyte-designare-z390-thunderbolt-3-i7-9700k-amd-rx-580.267551/page-3108#post-2248937 
+# Support and Guides: 
+- Dell OptiMac (Optiplex) build: https://www.tonymacx86.com/threads/the-dell-optimac-big-sur-opencore-thread.302383/ 
+- Gigabyty Designare Z390 build: https://www.tonymacx86.com/threads/success-gigabyte-designare-z390-thunderbolt-3-i7-9700k-amd-rx-580.267551/page-3108#post-2248937
+- https://www.tonymacx86.com/threads/success-gigabyte-designare-z390-thunderbolt-3-i7-9700k-amd-rx-580.267551/
+- https://www.tonymacx86.com/threads/success-working-intel-wifi-drivers-for-7265ac-on-catalina.292207/post-2131153
+- https://hackintosh.gitbook.io 
+- https://dortania.github.io/OpenCore-Install-Guide/extras/big-sur/#backstory
+- https://github.com/acidanthera/OpenCorePkg/releases
+- https://github.com/williambj1/OpenCore-Factory/releases
+- https://mackie100projects.altervista.org/download-opencore-configurator/
+- https://github.com/Pavo-IM/OC-Gen-X
+- https://github.com/Pavo-IM/ocbuilder
+- https://github.com/Lorys89/itlwm/releases
+- https://github.com/OpenIntelWireless/HeliPort/releases
 
 # Apps:
 - HackinDROM by Inqnuam: https://hackindrom.zapto.org 
